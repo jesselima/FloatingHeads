@@ -1,4 +1,4 @@
-# FloatingHeads (Facebook Messengerlike)
+# FloatingHeads (Facebook Messenger like chat heads)
 
 >This project is based on the tutorial from Android Hive (https://www.androidhive.info/2016/11/android-floating-widget-like-facebook-chat-head/). So all the thanks for KEVAL PATEL who publish this tutorial on JULY 12, 2017 
 
